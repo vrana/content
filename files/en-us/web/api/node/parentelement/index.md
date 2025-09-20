@@ -57,3 +57,4 @@ if (node.parentElement) {
 ## See also
 
 - {{domxref("Node.parentNode")}}
+- {{domxref("Element.closest()")}}
